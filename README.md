@@ -1,4 +1,4 @@
-Terraform
+**Terraform**
 An Open-Source, cloud-agnostic Infrastructure-as-code (IAC)
 
 Terraform Workflow
